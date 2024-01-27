@@ -1,0 +1,8 @@
+[
+  { "skillName": "HTML", "level": 7 },
+  { "skillName": "CSS", "level": 5 },
+  { "skillName": "JavaScript", "level": 8 },
+  { "skillName": "Advance HTML", "level": 4 },
+  { "skillName": "Advance CSS", "level": 10 },
+  { "skillName": "Advance JavaScript", "level": 2 }
+]
